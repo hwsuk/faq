@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Bot documentation"
+date:   2020-06-23 00:00:00 +0000
+---
+
+This post aims to give a brief description of the bots we use in the hwsuk Discord server and how to use them
+
+# List of bots
+- Ub3r
+- Rhythm
+- Ark
+- Cexbot
+- hwsukVerify
+- Tickety
+
+## Ub3r
+
+Documentation for Ub3rbot can be found [here](https://ub3r-b0t.com/docs/articles/intro.html)
+
+## Rhythm
+
+Documentation for Rhythm can be found [here](https://rythmbot.co/features)
+
+## Ark
+
+`^ark` searches the Intel Ark website for products
+
+## Cexbot
+
+`!search` searches the cex website for products. Append the command with `r=` and a number to view the nth product in the results
+
+## hwsukVerify
+
+`!whois` can be used to search for a discord or reddit user and find their linked discord/reddit account
+
+## Tickety
+
+Documentation for Tickety can be found [here](https://bot.to/bot/tickety/)
+If you need your role/flair updating please make a new ticket with `-new`
