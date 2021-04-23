@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Timestamps"
-date:   2020-06-12 00:00:03 +0000
+date:   2021-04-23 00:00:03 +0000
 ---
 
 This FAQ section aims to cover timestamps, why we use them and why they're important.
@@ -23,6 +23,7 @@ Timestamps are required for **all selling posts on the _subreddit_.** Timestamps
     - The only exception is sealed items - these must clearly show the seal on the box as well as the timestamp.
 - Show the exact model number of the item you're selling if possible.
 - Only one of the images in a collection of images needs to be timestamped, as long as it meets the requirements.
+- [Example Timestamp](https://i.imgur.com/oOkHF3d.jpg)
 
 # How do I upload timestamps?
 
