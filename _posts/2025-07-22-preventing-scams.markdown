@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Avoiding scams"
-date:   2023-09-29 00:00:00 +0000
+date:   2025-07-22 00:00:00 +0000
 ---
 
 Scamming is an unfortunate possibility when trading online, but there are steps you can take to avoid losing your money.
